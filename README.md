@@ -1,19 +1,15 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=header&text=End?&fontSize=30&fontAlign=50&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=115&section=header&text=End?&fontSize=30&fontAlign=50&fontAlignY=30" />
 <!-- &desc={SUB_TITLE}&descAlign=50&descSize=15&descAlignY=60&animation=twinkling -->
-</p>
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&duration=7000&pause=500&color=F7130C&center=true&vCenter=true&repeat=false&random=false&width=500&lines=%E8%A5%BF%E9%83%8A%E6%9C%89%E5%AF%86%E6%9E%97%EF%BC%8C%E5%8A%A9%E5%90%9B%E5%87%BA%E9%87%8D%E5%9B%B4" alt="Typing SVG" /></a>
 </p>
-<p align="center">
 
 **ABOUT ME:**
-
 - ❤️LLM FT 
 - 👍Preference Learning
 - 😭Data Cleaning 
-- viewed:   <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:20%'/>
+- viewed:   <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:15%'/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg style='text-align:center; width:30%'-->
 
@@ -33,8 +29,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shedding-ash&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 
+<p align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,c,cpp,html,js,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,c,cpp,html,js,md&theme=light"/>
+</p> 
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
@@ -50,6 +48,6 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&text=Begining?&fontSize=30&fontAlign=50&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=115&&section=footer&text=Begining?&fontSize=30&fontAlign=50&fontAlignY=70" />
 <!-- &desc={SUB_TITLE}&descAlign=50&descSize=15&descAlignY=40&animation=twinkling -->
 </p>
