@@ -9,6 +9,7 @@
 </p>
 ![Visitor Count](https://profile-counter.glitch.me/shedding-ash/count.svg)
 <p align="center">
+![Visitor Count](https://profile-counter.glitch.me/shedding-ash/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=shedding-ash&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
