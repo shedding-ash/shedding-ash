@@ -4,14 +4,10 @@
 </p>
 **ABOUT ME：**
 
-🐥 Hi, 米娜桑，I’m [@**chenlvtang**](http://chenlvtang.top/).
-
-🏁 I’m interested in DevSecOps🔄 && CTF 🏴 && Cyber Security 💻.
-
-🌱 I’m currently learning Python, Java.
-
-
-**viewed**:  <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:70%'/>
+- ❤️LLM FT 
+- 👍Preference Learning
+- 😭Data Cleaning 
+- viewed:  <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:30%'/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg style='text-align:center; width:30%'-->
 
