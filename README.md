@@ -1,20 +1,23 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=80&fontAlign=50&fontAlignY=30&desc=I%20am%20shedding_ash!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=header&text=End?&fontSize=30&fontAlign=50&fontAlignY=30" />
+<!-- &desc={SUB_TITLE}&descAlign=50&descSize=15&descAlignY=60&animation=twinkling -->
 </p>
-**ABOUT ME：**
-
-- ❤️LLM FT 
-- 👍Preference Learning
-- 😭Data Cleaning 
-- viewed:  <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:30%'/>
-
-<!-- https://github.com/DenverCoder1/readme-typing-svg style='text-align:center; width:30%'-->
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&duration=7000&pause=500&color=F7130C&center=true&vCenter=true&repeat=false&random=false&width=500&lines=%E8%A5%BF%E9%83%8A%E6%9C%89%E5%AF%86%E6%9E%97%EF%BC%8C%E5%8A%A9%E5%90%9B%E5%87%BA%E9%87%8D%E5%9B%B4" alt="Typing SVG" /></a>
 </p>
 <p align="center">
+
+**ABOUT ME:**
+
+- ❤️LLM FT 
+- 👍Preference Learning
+- 😭Data Cleaning 
+- viewed:  <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:10%'/>
+
+<!-- https://github.com/DenverCoder1/readme-typing-svg style='text-align:center; width:30%'-->
+
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=shedding-ash&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
@@ -46,7 +49,7 @@
 
 
 
-<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Looking%20forword%20for%20next%20meeting&fontSize=50&fontAlign=50&fontAlignY=70&desc=Have%20a%20nice%20day!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&text=Begining?&fontSize=30&fontAlign=50&fontAlignY=70" />
+<!-- &desc={SUB_TITLE}&descAlign=50&descSize=15&descAlignY=40&animation=twinkling -->
 </p>
