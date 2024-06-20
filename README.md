@@ -13,7 +13,7 @@
 - ❤️LLM FT 
 - 👍Preference Learning
 - 😭Data Cleaning 
-- viewed:  <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:10%'/>
+- viewed:   <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:20%'/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg style='text-align:center; width:30%'-->
 
@@ -44,8 +44,8 @@
 <a href="https://huggingface.co/shedding0ash"><img src="https://img.shields.io/badge/Huggingface-shedding0ash-yellow?logo=huggingface" /></a>
 <!-- <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" /> -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<!-- <img src="https://komarev.com/ghpvc/?username=shedding-ash&abbreviated=true&color=yellow" />
-</p> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=shedding-ash&abbreviated=true&color=yellow" />-->
+</p> 
 
 
 
