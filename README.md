@@ -11,12 +11,11 @@
 - ❤️LLM FT 
 - 👍Preference Learning
 - 😭Data Cleaning 
-- viewed:   <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:15%'/
-
+- viewed:   <img src='https://profile-counter.glitch.me/shedding-ash/count.svg' style='text-align:center; width:15%'/>
 <!-- https://github.com/DenverCoder1/readme-typing-svg style='text-align:center; width:30%'-->
-| Streak | Steam Status | Most Used Languages |
-| :---: | :---: | :---: |
-| <img height="150" alt="Streak" style="max-width: 100%;" src="https://streak-stats.demolab.com?user=shedding-ash&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true"> | <img height="150" alt="Steam Card" style="max-width: 100%;" src="https://card.yuy1n.io/card/76561198970890147/dark,en,badge,group,badges,games,screenshots"> | <img height="150" alt="Language Card" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shedding-ash&layout=compact&theme=transparent"> |
+| Steam Status | Most Used Languages |
+| :---: | :---: |
+| <img height="150" alt="Steam Card" style="max-width: 100%;" src="https://card.yuy1n.io/card/76561198970890147/dark,en,badge,group,badges,games,screenshots"> | <img height="150" alt="Language Card" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shedding-ash&layout=compact&theme=transparent"> |
 
 <p align="center">
 <!-- 
@@ -27,7 +26,8 @@
 <br/>
 <!-- wakatime & most used language -->
 <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/wakatime?username=shedding_ash&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shedding-ash&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" width="365" src="https://streak-stats.demolab.com?user=shedding-ash&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<!-- <img height="150" alt="Streak" style="max-width: 100%;" src="https://streak-stats.demolab.com?user=shedding-ash&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true"> -->
 <br/>
 </p>
 
